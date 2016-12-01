@@ -1,0 +1,33 @@
+{
+      "customer_id": "460000000026049",
+      "date": "2013-08-05",
+      "line_items": [
+        {
+          "item_id": "460000000027017",
+          "project_id": "",
+          "expense_id": "",
+          "name": "Print Services",
+          "description": "500GB, USB 2.0 interface 1400 rpm, protective hard case.",
+          "item_order": 1,
+          "rate": 120.00,
+          "unit": "Nos",
+          "quantity": 1.00,
+          "discount": 0.00,
+          "tax_id": "460000000027005"
+        },
+        {
+          "item_id": "460000000027017",
+          "project_id": "",
+          "expense_id": "",
+          "name": "Print Services",
+          "description": "10 GB Space, 300 GB Transfer 100 Email Accounts 10 MySQL Databases",
+          "item_order": 2,
+          "rate": 33.00,
+          "unit": "Nos",
+          "quantity": 1.00,
+          "discount": 0.00,
+          "tax_id": "460000000027005"
+        }
+      ],
+      "notes": "Thanks for your business."
+}
